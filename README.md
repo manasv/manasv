@@ -7,5 +7,3 @@
 -  **Working :** Currently I'm working as an iOS Dev :iphone:
 -  **Learning :** Reactive Programming | SwiftUI
 -  **Hobbies :** Reading about tech :technologist: | PC Gaming :video_game:
-
-![github stats](https://github-readme-stats.vercel.app/api?username=manasv&show_icons=true)
