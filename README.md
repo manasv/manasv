@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Manuel_S%C3%A1nchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-sanchez/)](https://www.linkedin.com/in/manuel-sanchez/) 
 
 ### About me
--  **Working :** Currently I'm working as an iOS Dev :iphone:
--  **Learning :** Reactive Programming | SwiftUI
--  **Hobbies :** Reading about tech :technologist: | PC Gaming :video_game:
+-  **Working as:** iOS Engineer :iphone:
+-  **iOS Tech Stack :** UIKit, SwiftUI, Combine, Concurrency
+-  **Learning :** SIP protocol
+-  **Hobbies :** Reading about tech 🧑‍💻 | PC Gaming 🎮 | Ping Pong 🏓 
